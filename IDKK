@@ -1,2 +1,3 @@
 console.log("Hello");
 console.log("Hello says hi");
+console.log("Main says hi");
