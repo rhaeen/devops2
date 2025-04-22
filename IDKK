@@ -1,3 +1,6 @@
 console.log("Hello");
 console.log("Hello says hi");
 console.log("Main says hi");
+
+console.log("Update for assignment step 2");
+
